@@ -1,2 +1,2 @@
 # Sticky
-FINKI - Basics of Web design - Project
+FINKI - Fundamentals of web design - Project
